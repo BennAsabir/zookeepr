@@ -1,0 +1,24 @@
+{
+  "name": "zookeepr",
+  "version": "1.0.0",
+  "description": "A server-side API using the Express.js framework. The site’s data will live on this server so that anyone can access it without having to download it. It'll also be deployed to Heroku.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BennAsabir/zookeepr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BennAsabir/zookeepr/issues"
+  },
+  "homepage": "https://github.com/BennAsabir/zookeepr#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
