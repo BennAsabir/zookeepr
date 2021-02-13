@@ -117,6 +117,16 @@
         "hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "Larry",
+      "species": "Buffalo",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry",
+        "zany"
+      ],
+      "id": "12"
     }
   ]
 }
